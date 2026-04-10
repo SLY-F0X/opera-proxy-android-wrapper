@@ -1,5 +1,9 @@
 # Opera Proxy для Android
 
+Лавочка щедрости серверов Opera на данный момент закрылась. Сарафанный каскад сделал свое дело.
+---
+
+
 Неофициальный Android-клиент и графическая оболочка (Wrapper) для утилиты **[opera-proxy](https://github.com/Snawoot/)** от Snawoot.
 
 Старое имя пакета `com.example.operaproxy`.
